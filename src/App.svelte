@@ -28,7 +28,7 @@
 		</fieldset>
 
     <fieldset>
-			<legend>Your <b>width</b> in <b>cm</b> format</legend>
+			<legend>Your <b>width</b> in <b>kg</b> format</legend>
 			<input
 				type="number"
 				bind:value={weight}
